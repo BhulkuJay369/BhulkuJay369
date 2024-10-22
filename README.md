@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BhulkuJay369
-- 👀 I’m interested in Designing
-- 🌱 I’m currently learning Android,AWS,React JS
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 Odoo Developer
 - 📫 How to reach me jpthakkar@369@gmail.com
 
 <!---
